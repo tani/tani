@@ -4,3 +4,16 @@
   <img width="100" src="https://3.bp.blogspot.com/-KWoDv_DTebY/UWgWUHqfceI/AAAAAAAAQAM/LF-vpCh5NTA/s1600/cafe_mark.png"><br>
 </p>
 ++++
+
+== Featured Projects
+
+image::https://gh-card.dev/repos/linuxbrew/homebrew-fonts.svg[link="https://github.com/linuxbrew/homebrew-fonts"]
+image::https://gh-card.dev/repos/textlint/textlint-plugin-latex2e.svg[link="https://github.com/linuxbrew/homebrew-fonts"]
+image::https://gh-card.dev/repos/islisp-dev/iris.svg[link="https://github.com/islisp-dev/iris"]
+
+== Misc
+|================
+|Email| taniguchi (at) jaist.ac.jp
+|Website | https://www.docs.casa
+|PGP | link:https://keys.openpgp.org/search?q=3B0952019EDF7F49ADFFCF2C0ADD4DFC6385E141[3B0952019EDF7F49ADFFCF2C0ADD4DFC6385E141]
+|================
