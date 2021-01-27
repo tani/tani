@@ -1,7 +1,8 @@
 <h2 align="center">TANIGUCHI Masaya<h2>
 
 <p align="center">
-  <img width="100" src="https://3.bp.blogspot.com/-KWoDv_DTebY/UWgWUHqfceI/AAAAAAAAQAM/LF-vpCh5NTA/s1600/cafe_mark.png"><br>
+  <img width="100" src="https://3.bp.blogspot.com/-KWoDv_DTebY/UWgWUHqfceI/AAAAAAAAQAM/LF-vpCh5NTA/s1600/cafe_mark.png">
+  <img width="100" src="https://3.bp.blogspot.com/-FJiaJ8gidCs/Ugsu-rSFw0I/AAAAAAAAXNA/JFiIUoxggW4/s800/book_tate.png">
 </p>
 
 <h3 align="center">Interests</h3>
