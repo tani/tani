@@ -7,9 +7,9 @@
 
 == Featured Projects
 
-image::https://gh-card.dev/repos/linuxbrew/homebrew-fonts.svg[link="https://github.com/linuxbrew/homebrew-fonts"]
-image::https://gh-card.dev/repos/textlint/textlint-plugin-latex2e.svg[link="https://github.com/linuxbrew/homebrew-fonts"]
-image::https://gh-card.dev/repos/islisp-dev/iris.svg[link="https://github.com/islisp-dev/iris"]
+image:https://gh-card.dev/repos/linuxbrew/homebrew-fonts.svg[link="https://github.com/linuxbrew/homebrew-fonts"]
+image:https://gh-card.dev/repos/textlint/textlint-plugin-latex2e.svg[link="https://github.com/linuxbrew/homebrew-fonts"]
+image:https://gh-card.dev/repos/islisp-dev/iris.svg[link="https://github.com/islisp-dev/iris"]
 
 == Misc
 |================
