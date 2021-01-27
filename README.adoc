@@ -2,6 +2,7 @@
 
 ++++
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tani&theme=gruvbox">
+  <img width="100" src="https://3.bp.blogspot.com/-KWoDv_DTebY/UWgWUHqfceI/AAAAAAAAQAM/LF-vpCh5NTA/s1600/cafe_mark.png">
+  <img src="https://github-profile-trophy.vercel.app/?username=tani&theme=gruvbox&row=3&column=4">
 </p>
 ++++
