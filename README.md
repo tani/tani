@@ -14,5 +14,5 @@
 <h3 align="center">Contact</h3>
 
 - E-mail: `taniguchi (at) jaist.ac.jp`
-- PGP: link:https://keys.openpgp.org/search?q=3B0952019EDF7F49ADFFCF2C0ADD4DFC6385E141[3B0952019EDF7F49ADFFCF2C0ADD4DFC6385E141]
 - Website: https://www.docs.casa
+- PGP: [3B0952019EDF7F49ADFFCF2C0ADD4DFC6385E141](https://keys.openpgp.org/search?q=3B0952019EDF7F49ADFFCF2C0ADD4DFC6385E141)
