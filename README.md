@@ -15,5 +15,5 @@
 <h3 align="center">Contact</h3>
 
 - :envelope: `taniguchi (at) jaist.ac.jp`
-- :link:[`docs.casa`](https://www.docs.casa)
+- :link:[`docs.casa`](https://www.docs.casa), [medium](https://medium.com/@linguist)
 - :key: [3B0952019EDF7F49ADFFCF2C0ADD4DFC6385E141](https://keys.openpgp.org/search?q=3B0952019EDF7F49ADFFCF2C0ADD4DFC6385E141)
