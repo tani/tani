@@ -14,6 +14,7 @@
 
 <h3 align="center">Contact</h3>
 
-- :envelope: `taniguchi (at) jaist.ac.jp`
+- Mail :envelope: `taniguchi (at) jaist.ac.jp`
+- PGP :key: [3B0952019EDF7F49ADFFCF2C0ADD4DFC6385E141](https://keys.openpgp.org/search?q=3B0952019EDF7F49ADFFCF2C0ADD4DFC6385E141)
+- ORCID :scientist: [0000-0003-4237-9998](https://orcid.org/0000-0003-4237-9998)
 - :link:[`docs.casa`](https://www.docs.casa), [medium](https://medium.com/@linguist)
-- :key: [3B0952019EDF7F49ADFFCF2C0ADD4DFC6385E141](https://keys.openpgp.org/search?q=3B0952019EDF7F49ADFFCF2C0ADD4DFC6385E141)
