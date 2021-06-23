@@ -17,4 +17,4 @@
 - Mail :envelope: `taniguchi (at) masaya.info`
 - PGP :key: [3B0952019EDF7F49ADFFCF2C0ADD4DFC6385E141](https://keys.openpgp.org/search?q=3B0952019EDF7F49ADFFCF2C0ADD4DFC6385E141)
 - ORCID :scientist: [0000-0003-4237-9998](https://orcid.org/0000-0003-4237-9998)
-- :link:[`taniguchi.masaya.info`](https://taniguchi.masaya.info), [medium](https://medium.com/@linguist)
+- :link:[`taniguchi.masaya.info`](http://taniguchi.masaya.info), [medium](https://medium.com/@linguist)
