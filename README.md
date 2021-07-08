@@ -1,10 +1,10 @@
 <h2 align="center">TANIGUCHI Masaya<h2>
-
-<p align="center">
-  <img width="100" src="./cafe.png">
-  <img width="100" src="./book.png">
-</p>
-
+  
+![](https://badgen.net/badge/tani/github?icon=github&color=orange)
+![](https://badgen.net/badge/taniguchi/pypi?icon=pypi&color=blue)
+![](https://badgen.net/badge/taniguchi/ruby?icon=ruby&color=red)
+![](https://badgen.net/badge/taniguchi/npm?icon=npm&color=green)
+  
 <h3 align="center">Interests</h3>
 
 - Formal Semantics (Montague Semantics, Continuations and Natural Language)
