@@ -1,10 +1,10 @@
 <h2 align="center">TANIGUCHI Masaya</h2>
 
-[:evergreen_tree: JavaScript NPM (@taniguchi)](https://www.npmjs.com/~taniguchi)
-[:snake: Python PyPI (@taniguchi)](https://pypi.org/user/taniguchi/)
-[:gem: Ruby Gems (@taniguchi)](https://rubygems.org/profiles/taniguchi)
-[:coffee: Cojars (@taniguchi)](https://clojars.org/users/taniguchi)
-[:heart: Sponsor (@tani)](https://github.com/sponsors/tani)
+- [:evergreen_tree: JavaScript NPM (@taniguchi)](https://www.npmjs.com/~taniguchi)
+- [:snake: Python PyPI (@taniguchi)](https://pypi.org/user/taniguchi/)
+- [:gem: Ruby Gems (@taniguchi)](https://rubygems.org/profiles/taniguchi)
+- [:coffee: Clojure Cojars (@taniguchi)](https://clojars.org/users/taniguchi)
+- [:heart: GitHub Sponsors (@tani)](https://github.com/sponsors/tani)
 
 <h3 align="center">Interests</h3>
 
