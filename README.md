@@ -6,13 +6,6 @@
 - [:coffee: Clojure Cojars (@taniguchi)](https://clojars.org/users/taniguchi)
 - [:heart: GitHub Sponsors (@tani)](https://github.com/sponsors/tani)
 
-<h3 align="center">Interests</h3>
-
-- Formal Semantics (Montague Semantics, Continuations and Natural Language)
-- Formal Grammar (Regular Grammar, Combinatory Categorial Grammar)
-- Programming Language Theory (Lisp, Logic Programming)
-- Theorem Prover (Isabelle, Coq, ACL2)
-
 <h3 align="center">Contact</h3>
 
 - Mail :envelope: `taniguchi (at) masaya.info`
