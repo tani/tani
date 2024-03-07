@@ -1,4 +1,4 @@
-<h2 align="center">TANIGUCHI Masaya</h2>
+<h2 align="center"><img alt="Masaya Taniguchi" src="https://typography.deno.dev/render?text=%20%20Masaya%20Taniguchi%20%20&family=Monoton&weight=400&size=32&color=%23ff8000"></h2>
 
 - [:evergreen_tree: JavaScript NPM (@taniguchi)](https://www.npmjs.com/~taniguchi)
 - [:snake: Python PyPI (@taniguchi)](https://pypi.org/user/taniguchi/)
@@ -11,5 +11,5 @@
 - PGP :key: [3B0952019EDF7F49ADFFCF2C0ADD4DFC6385E141](https://keys.openpgp.org/search?q=3B0952019EDF7F49ADFFCF2C0ADD4DFC6385E141)
 - ORCID :scientist: [0000-0003-4237-9998](https://orcid.org/0000-0003-4237-9998)
 - Researchmap: [taniguchimasaya](https://researchmap.jp/taniguchimasaya)
-- Mastodon: <a rel="me" href="https://mastodon.acm.org/@taniguchi">@taniguchi</a>
-- Webpage :link:[`tani.github.io`](http://taniguchi.masaya.info), :link:[`tumblr/@taniguchi`](https://taniguchi.tumblr.com), :link:[`@taniguchi@mastodon.acm.org`](https://mastodon.acm.org/@taniguchi/)
+- BlueSky: <a rel="me" href="https://tani.bsky.social">@tani.bsky.social</a>
+- Webpage :link:[`tani.github.io`](http://www.gengo.cc)
