@@ -1,15 +1,19 @@
 <h2 align="center"><img alt="Masaya Taniguchi" src="https://typography.deno.dev/render?text=%20%20Masaya%20Taniguchi%20%20&family=Monoton&weight=400&size=32&color=%23ff8000"></h2>
 
-- [:evergreen_tree: JavaScript NPM (@taniguchi)](https://www.npmjs.com/~taniguchi)
-- [:snake: Python PyPI (@taniguchi)](https://pypi.org/user/taniguchi/)
-- [:gem: Ruby Gems (@taniguchi)](https://rubygems.org/profiles/taniguchi)
-- [:coffee: Clojure Cojars (@taniguchi)](https://clojars.org/users/taniguchi)
-- [:heart: GitHub Sponsors (@tani)](https://github.com/sponsors/tani)
+<img src="https://github-readme-stats.vercel.app/api?username=tani&theme=default&show_icons=true&hide_border=true&count_private=true">
 
-<h3 align="center">Contact</h3>
+<ul>
+  <li><a href="https://www.npmjs.com/~taniguchi">:evergreen_tree: JavaScript NPM (@taniguchi)</a></li>
+  <li><a href="https://pypi.org/user/taniguchi/">:snake: Python PyPI (@taniguchi)</a></li>
+  <li><a href="https://rubygems.org/profiles/taniguchi">:gem: Ruby Gems (@taniguchi)</a></li>
+  <li><a href="https://clojars.org/users/taniguchi">:coffee: Clojure Cojars (@taniguchi)</a></li>
+  <li><a href="https://github.com/sponsors/tani">:heart: GitHub Sponsors (@tani)</a></li>
+</ul>
 
-- PGP :key: [3B0952019EDF7F49ADFFCF2C0ADD4DFC6385E141](https://keys.openpgp.org/search?q=3B0952019EDF7F49ADFFCF2C0ADD4DFC6385E141)
-- ORCID :scientist: [0000-0003-4237-9998](https://orcid.org/0000-0003-4237-9998)
-- Researchmap: [taniguchimasaya](https://researchmap.jp/taniguchimasaya)
-- BlueSky: <a rel="me" href="https://tani.bsky.social">@tani.bsky.social</a>
-- Webpage :link:[`tani.github.io`](http://www.gengo.cc)
+<ul>
+  <li>PGP :key: <a href="https://keys.openpgp.org/search?q=3B0952019EDF7F49ADFFCF2C0ADD4DFC6385E141">3B0952019EDF7F49ADFFCF2C0ADD4DFC6385E141</a></li>
+  <li>ORCID: :scientist: <a href="https://orcid.org/0000-0003-4237-9998">0000-0003-4237-9998</a></li>
+  <li>Researchmap :handshake: <a href="https://researchmap.jp/taniguchimasaya">taniguchimasaya</a></li>
+  <li>BlueSky :large_blue_circle: <a href="https://tani.bsky.social">@tani.bsky.social</a></li>
+  <li>Webpage :link: <a href="http://www.gengo.cc">tani.github.io</a></li>
+</ul>
