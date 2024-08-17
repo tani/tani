@@ -14,7 +14,8 @@
   <li>PGP :key: <a href="https://keys.openpgp.org/search?q=3B0952019EDF7F49ADFFCF2C0ADD4DFC6385E141">3B0952019EDF7F49ADFFCF2C0ADD4DFC6385E141</a></li>
   <li>ORCID: :scientist: <a href="https://orcid.org/0000-0003-4237-9998">0000-0003-4237-9998</a></li>
   <li>Researchmap :handshake: <a href="https://researchmap.jp/taniguchimasaya">taniguchimasaya</a></li>
-  <li>Mastodon :elephant: <a href="https://fedibird.com/ma38taniguchi">ma38taniguchi</a></li>
+  <li>Mastodon :elephant: <a href="https://fedibird.com/ma38taniguchi">@ma38taniguchi</a></li>
+  <li>Bluesky :bird: <a href="https://ma38taniguchi">ma38taniguchi.bsky.social</a></li>
   <li>X :link: <a href="https://fedibird.com/ma38taniguchi">ma38taniguchi</a></li>
   <li>Webpage :computer: <a href="http://www.gengo.cc">tani.github.io</a></li>
 </ul>
