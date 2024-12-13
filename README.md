@@ -1,7 +1,5 @@
 <h2 align="center"><img alt="Masaya Taniguchi" src="https://typography.deno.dev/render?text=%20%20Masaya%20Taniguchi%20%20&family=Monoton&weight=400&size=32&color=%23ff8000"></h2>
 
-<img src="https://github-readme-stats.vercel.app/api?username=tani&theme=default&show_icons=true&hide_border=true&count_private=true">
-
 <ul>
   <li><a href="https://www.npmjs.com/~taniguchi">:evergreen_tree: JavaScript NPM (@taniguchi)</a></li>
   <li><a href="https://pypi.org/user/taniguchi/">:snake: Python PyPI (@taniguchi)</a></li>
